@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+}
+
+.fondoHome{
+    background-image: url('/background.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 9522px;
+    width: 1595px;
+}
+.fondoPen{
+    background-image: url('/pensamiento.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 1534px;
+    width: 1595px;
+}
+.fondoTec{
+    background-image: url('/teconologia.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 2781px;
+    width: 1595px;
+}
+.fondoVision{
+    background-image: url('/vision.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 1534px;
+    width: 1595px;
+}
+
+a{
+    text-decoration: none;
+    color: aliceblue;
+    font-family: "Futura" ;
+    font-size: 25px;
+    height: 30px;
+}
+a:hover{
+    border-color: #D8CACA;
+    padding: 2px;
+    border: 1px;
+    border-style: ridge;
+}
+ul{
+    display: flex;
+    margin-top: 2%;
+    width: 100%;
+    padding-top: 3%;
+}
+li{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 50px;
+}
+.menu{
+    display: flex;
+    background-color: #404066;
+    padding: 2%;
+}
+@font-face{
+    font-family: "Futura" ;
+    src: url('/FUTURA\ BOOK\ FONT.TTF');
+}
+
+
+/*<div class="container-wrapper-genially" style="position: relative; min-height: 400px; max-width: 100%;"><img src="https://genially.blob.core.windows.net/genially/version3.0/loader.gif" class="loader-genially" style="position: absolute; top: 0; right: 0; bottom: 0; left: 0; margin-top: auto; margin-right: auto; margin-bottom: auto; margin-left: auto; z-index: 1;width: 80px; height: 80px;"/><div id="5e57f253f1f74b181090484c" class="genially-embed" style="margin: 0px auto; position: relative; height: auto; width: 100%;"></div></div><script>(function (d) { var js, id = "genially-embed-js", ref = d.getElementsByTagName("script")[0]; if (d.getElementById(id)) { return; } js = d.createElement("script"); js.id = id; js.async = true; js.src = "https://view.genial.ly/static/embed/embed.js"; ref.parentNode.insertBefore(js, ref); }(document));</script>*/
