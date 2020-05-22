@@ -10,7 +10,7 @@
     width: 1595px;
 }
 .fondoPen{
-    background-image: url('../pensamiento.png');
+    background-image: url('./pensamiento.png');
     background-size: cover;
     background-repeat: no-repeat;
     height: 1534px;
