@@ -3,28 +3,28 @@
 }
 
 .fondoHome{
-    background-image: url('/background.png');
+    background-image: url('./background.png');
     background-size: cover;
     background-repeat: no-repeat;
     height: 9522px;
     width: 1595px;
 }
 .fondoPen{
-    background-image: url('/pensamiento.png');
+    background-image: url('./pensamiento.png');
     background-size: cover;
     background-repeat: no-repeat;
     height: 1534px;
     width: 1595px;
 }
 .fondoTec{
-    background-image: url('/teconologia.png');
+    background-image: url('./teconologia.png');
     background-size: cover;
     background-repeat: no-repeat;
     height: 2781px;
     width: 1595px;
 }
 .fondoVision{
-    background-image: url('/vision.png');
+    background-image: url('./vision.png');
     background-size: cover;
     background-repeat: no-repeat;
     height: 1534px;
